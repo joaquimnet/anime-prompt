@@ -1,0 +1,43 @@
+{
+  "name": "anime-prompt",
+  "description": "Generate drawing ideas.",
+  "version": "0.0.0",
+  "author": "Joaquim Neto @joaquimnet",
+  "bin": {
+    "idea": "./bin/run"
+  },
+  "bugs": "https://github.com/joaquimnet/anime-prompt/issues",
+  "devDependencies": {
+    "@oclif/dev-cli": "^1.26.0",
+    "@types/tracery-grammar": "^2.7.1",
+    "rimraf": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "files": [
+    "/bin",
+    "/src"
+  ],
+  "homepage": "https://github.com/joaquimnet/anime-prompt",
+  "keywords": [
+    "oclif"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "oclif": {
+    "bin": "idea"
+  },
+  "repository": "joaquimnet/anime-prompt",
+  "scripts": {
+    "prepack": "oclif-dev readme",
+    "test": "echo NO TESTS",
+    "version": "oclif-dev readme && git add README.md"
+  },
+  "dependencies": {
+    "@oclif/command": "^1.8.0",
+    "@oclif/config": "^1.17.0",
+    "@oclif/plugin-help": "^3.2.2",
+    "tracery-grammar": "^2.7.4"
+  }
+}
