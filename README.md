@@ -12,8 +12,23 @@ Generate drawing ideas.
 * [Usage](#usage)
 * [Commands](#commands)
 <!-- tocstop -->
+* [Usage](#usage)
+* [Commands](#commands)
+<!-- tocstop -->
 # Usage
 <!-- usage -->
+```sh-session
+$ npm install -g anime-prompt
+$ idea COMMAND
+running command...
+$ idea (-v|--version|version)
+anime-prompt/0.2.1 win32-x64 node-v16.5.0
+$ idea --help [COMMAND]
+USAGE
+  $ idea COMMAND
+...
+```
+<!-- usagestop -->
 ```sh-session
 $ npm install -g anime-prompt
 $ anime-prompt COMMAND
@@ -28,5 +43,7 @@ USAGE
 <!-- usagestop -->
 # Commands
 <!-- commands -->
+
+<!-- commandsstop -->
 
 <!-- commandsstop -->
