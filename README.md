@@ -23,7 +23,7 @@ $ anime-prompt (-v|--version|version)
 anime-prompt/0.1.0 win32-x64 node-v16.5.0
 $ anime-prompt --help [COMMAND]
 USAGE
-  $ anime-prompt
+  $ npx anime-prompt
 Draw an anime girl with very long cinnamon hair, dressed in an adventurer outfit and is waving. For the background make it outdoors.
 ...
 ```
