@@ -9,9 +9,8 @@ Generate anime drawing ideas!
 [![License](https://img.shields.io/npm/l/anime-prompt.svg)](https://github.com/joaquimnet/anime-prompt/blob/master/package.json)
 
 <!-- toc -->
-- [anime-prompt](#anime-prompt)
-- [Usage](#usage)
-- [Commands](#commands)
+* [Usage](#usage)
+* [Commands](#commands)
 <!-- tocstop -->
 # Usage
 <!-- usage -->
@@ -20,11 +19,10 @@ $ npm install -g anime-prompt
 $ anime-prompt COMMAND
 running command...
 $ anime-prompt (-v|--version|version)
-anime-prompt/0.1.0 win32-x64 node-v16.5.0
+anime-prompt/0.2.0 win32-x64 node-v16.5.0
 $ anime-prompt --help [COMMAND]
 USAGE
-  $ npx anime-prompt
-Draw an anime girl with very long cinnamon hair, dressed in an adventurer outfit and is waving. For the background make it outdoors.
+  $ anime-prompt COMMAND
 ...
 ```
 <!-- usagestop -->
