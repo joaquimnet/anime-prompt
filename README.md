@@ -9,9 +9,8 @@ Generate drawing ideas.
 [![License](https://img.shields.io/npm/l/anime-prompt.svg)](https://github.com/joaquimnet/anime-prompt/blob/master/package.json)
 
 <!-- toc -->
-- [anime-prompt](#anime-prompt)
-- [Usage](#usage)
-- [Commands](#commands)
+* [Usage](#usage)
+* [Commands](#commands)
 <!-- tocstop -->
 # Usage
 <!-- usage -->
@@ -20,7 +19,7 @@ $ npm install -g anime-prompt
 $ idea COMMAND
 running command...
 $ idea (-v|--version|version)
-anime-prompt/0.0.0 win32-x64 node-v16.5.0
+anime-prompt/0.1.0 win32-x64 node-v16.5.0
 $ idea --help [COMMAND]
 USAGE
   $ idea COMMAND
