@@ -4,7 +4,7 @@
   "version": "0.2.0",
   "author": "Joaquim Neto @joaquimnet",
   "bin": {
-    "anime-prompt": "./bin/run"
+    "idea": "./bin/run"
   },
   "bugs": "https://github.com/joaquimnet/anime-prompt/issues",
   "devDependencies": {
@@ -26,7 +26,7 @@
   "license": "MIT",
   "main": "src/index.js",
   "oclif": {
-    "bin": "anime-prompt"
+    "bin": "idea"
   },
   "repository": "joaquimnet/anime-prompt",
   "scripts": {

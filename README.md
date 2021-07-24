@@ -1,7 +1,7 @@
 anime-prompt
 =============
 
-Generate anime drawing ideas!
+Generate drawing ideas.
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/anime-prompt.svg)](https://npmjs.org/package/anime-prompt)
